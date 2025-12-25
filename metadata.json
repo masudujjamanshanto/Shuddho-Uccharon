@@ -1,0 +1,7 @@
+{
+  "name": "Shuddho Uccharon (শুদ্ধ উচ্চারণ)",
+  "description": "বাংলা একাডেমি প্রমিত মানদণ্ড অনুযায়ী বাংলা শব্দের সঠিক উচ্চারণ, IPA এবং অর্থ জানার ডিজিটাল অভিধান।",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
